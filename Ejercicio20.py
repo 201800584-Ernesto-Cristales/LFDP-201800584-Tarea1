@@ -17,3 +17,4 @@ if __name__ == '__main__':
             array.append(int(procedimiento[1]))
         elif(procedimiento[0] == 'reverse'):
             array.reverse()
+#Lists

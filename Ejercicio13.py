@@ -15,3 +15,4 @@ print(e*c)
 print(np.array(e/c,int))
 print(e%c)
 print(e**c)
+#Array Mathematics

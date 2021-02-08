@@ -6,3 +6,4 @@ if __name__ == '__main__':
             print (m+1, end="")
     else:
         print("")
+#Print Function

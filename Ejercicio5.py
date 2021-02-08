@@ -18,3 +18,5 @@ def is_leap(year):
     return leap
 
 year = int(input())
+
+#Write A Function

@@ -16,3 +16,4 @@ if __name__ == '__main__':
                 contador += 1
             promedio = sum/contador
             print("{:.2f}".format(promedio))
+#Finding the percentage
